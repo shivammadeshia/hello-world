@@ -1,5 +1,4 @@
 hello-world
 ===========
 
-Working.
-GitHub looks interesting.
+Let's add things to it.
